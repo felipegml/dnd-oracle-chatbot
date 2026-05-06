@@ -1,10 +1,6 @@
 # ── Secrets ──────────────────────────
 backend/.env
 
-# ── Data files (fetch with fetch_data.py) ──
-backend/data/
-backend/dialogs.json
-
 # ── ChromaDB local index ──────────────
 backend/chroma_db/
 
